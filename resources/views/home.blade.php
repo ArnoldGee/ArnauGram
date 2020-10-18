@@ -10,13 +10,16 @@
         </div>
         <div class="col-9 pt-5">
             <div>
-                <h1>freeCodeCamp</h1>
+                <h1>freeCodeCamp</h1 style="font-weight: 300;">
             </div>
             <div class="d-flex">
                 <div class=""><strong>153</strong> posts</div>
                 <div class="px-5"><strong>23k</strong> followers</div>
                 <div class=""><strong>212</strong> following</div>
             </div>
+            <div class=""><strong>freeCodeCamp.org</strong></div>
+            <div class="">We're a global community of millions of people learning to code together. We're an open source, donor-supported, 501(c)(3) nonprofit.</div>
+            <div><a href="www.freecodecamp.org">www.freecodecamp.org</a></div>
         </div>
     </div>
 </div>
