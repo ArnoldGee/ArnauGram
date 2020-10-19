@@ -22,5 +22,16 @@
             <div><a href="www.freecodecamp.org">www.freecodecamp.org</a></div>
         </div>
     </div>
+    <div class="row pt-5">
+        <div class="col-4">
+            <img src="https://instagram.fbcn7-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c1.0.747.747a/s640x640/121822885_2668243573506060_4719594186305050896_n.jpg?_nc_ht=instagram.fbcn7-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=VfD_qAxJNjIAX9YVHRc&oh=47530896d393a5c215c00f1bbd7ea0ed&oe=5FB5DFD3" alt="" class="w-100">
+        </div>
+        <div class="col-4">
+            <img src="https://instagram.fbcn7-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.112.929.929a/s640x640/121302633_1416954018498485_2495968877943777077_n.jpg?_nc_ht=instagram.fbcn7-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=bnoCBwXEdTwAX8wxCZI&oh=6a88e0759a062fcbb1b7174e8baa1d6b&oe=5FB71F1B" alt="" class="w-100">
+        </div>
+        <div class="col-4">
+            <img src="https://instagram.fbcn7-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c2.0.746.746a/s640x640/121057180_383931569662048_9123183366007734115_n.jpg?_nc_ht=instagram.fbcn7-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=uethcEQgJooAX8vfiEM&oh=2441adaff1732a3b27fdcd882a9467d1&oe=5FB60E30" alt="" class="w-100">
+        </div>
+    </div>
 </div>
 @endsection
